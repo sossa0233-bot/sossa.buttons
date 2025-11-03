@@ -20,9 +20,3 @@ Each button includes hover effects, transitions, and active states for a realist
 - **CSS3** – styling, transitions, and hover effects  
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone this repository
-```bash
-git clone https://github.com/sossa/button-showcase.git
